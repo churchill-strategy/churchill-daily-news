@@ -1,0 +1,309 @@
+{
+ "updated": "2026-11-01T02:02:47Z",
+ "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
+ "latest": {
+  "BC": {
+   "code": "BC",
+   "name": "British Columbia",
+   "date": "2026-10-29",
+   "region": "pacific",
+   "intro": "British Columbia, October 29: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-10-29/pacific/BC/01.jpg",
+    "daily/2026-10-29/pacific/BC/02.jpg",
+    "daily/2026-10-29/pacific/BC/03.jpg",
+    "daily/2026-10-29/pacific/BC/04.jpg",
+    "daily/2026-10-29/pacific/BC/05.jpg",
+    "daily/2026-10-29/pacific/BC/06.jpg",
+    "daily/2026-10-29/pacific/BC/07.jpg",
+    "daily/2026-10-29/pacific/BC/08.jpg"
+   ],
+   "pdf": "daily/2026-10-29/pacific/BC-British-Columbia.pdf",
+   "items": [
+    {
+     "breaking": true,
+     "headline": "Doerkson says Conservatives will keep every campaign promise",
+     "level": "Provincial",
+     "source": "CFJC Today (Global News)",
+     "url": "https://cfjctoday.com/2026/10/28/premier-designate-doerkson-says-conservatives-committed-to-all-campaign-promises/"
+    },
+    {
+     "breaking": true,
+     "headline": "B.C. NDP caucus to choose interim leader this week",
+     "level": "Provincial",
+     "source": "Victoria Buzz",
+     "url": "https://victoriabuzz.com/2026/10/bc-ndp-to-select-interim-leader-following-ebys-resignation/"
+    },
+    {
+     "breaking": true,
+     "headline": "McCallum urges Metro Vancouver to cancel Friday budget meeting",
+     "level": "Municipal",
+     "source": "Peace Arch News",
+     "url": "https://peacearchnews.com/2026/10/28/metros-budget-meeting-friday-should-be-cancelled-out-of-respect-for-voters-mccallum-says/"
+    },
+    {
+     "breaking": false,
+     "headline": "Doerkson and Carney agree to work on B.C. economic growth",
+     "level": "Federal",
+     "source": "My Powell River Now",
+     "url": "https://www.mypowellrivernow.com/65359/news/politics/incoming-b-c-premier-doerkson-speaks-with-carney-says-they-are-aligned-on-economic-development/"
+    },
+    {
+     "breaking": false,
+     "headline": "Mayor-elect Pete Fry ready to work with Conservative government",
+     "level": "Municipal",
+     "source": "CTV News",
+     "url": "https://www.ctvnews.ca/vancouver/article/vancouver-mayor-elect-says-hes-ready-to-work-with-incoming-conservative-provincial-government/"
+    },
+    {
+     "breaking": false,
+     "headline": "New Conservative cabinet expected by mid-November",
+     "level": "Provincial",
+     "source": "The Canadian Press",
+     "url": "https://ca.news.yahoo.com/cabinet-formation-matter-regional-ideological-130006576.html"
+    }
+   ]
+  },
+  "NB": {
+   "code": "NB",
+   "name": "New Brunswick",
+   "date": "2026-10-29",
+   "region": "atlantic",
+   "intro": "New Brunswick, October 29: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-10-29/atlantic/NB/01.jpg",
+    "daily/2026-10-29/atlantic/NB/02.jpg",
+    "daily/2026-10-29/atlantic/NB/03.jpg",
+    "daily/2026-10-29/atlantic/NB/04.jpg",
+    "daily/2026-10-29/atlantic/NB/05.jpg",
+    "daily/2026-10-29/atlantic/NB/06.jpg",
+    "daily/2026-10-29/atlantic/NB/07.jpg"
+   ],
+   "pdf": "daily/2026-10-29/atlantic/NB-New-Brunswick.pdf",
+   "items": [
+    {
+     "breaking": true,
+     "headline": "N.B. bids on Nackawic timberland as mill heads for shutdown",
+     "level": "Provincial",
+     "source": "CBC News",
+     "url": "https://ca.news.yahoo.com/av-group-selling-timberland-attached-213442400.html"
+    },
+    {
+     "breaking": true,
+     "headline": "Bill would write French immersion entry points into law",
+     "level": "Provincial",
+     "source": "Government of New Brunswick",
+     "url": "https://www.gnb.ca/en/news/n-b.2026.10.proposed-amendments-legislate-french-immersion-pathway.html"
+    },
+    {
+     "breaking": true,
+     "headline": "Critics call province's fracking survey biased",
+     "level": "Provincial",
+     "source": "CBC News",
+     "url": "https://ca.news.yahoo.com/n-b-governments-public-opinion-090000775.html"
+    },
+    {
+     "breaking": false,
+     "headline": "Province moves to curb copper wire theft",
+     "level": "Provincial",
+     "source": "CTV Atlantic",
+     "url": "https://www.ctvnews.ca/atlantic/new-brunswick/article/new-brunswick-government-aims-to-curb-copper-wire-theft-with-legislation-amendments/"
+    },
+    {
+     "breaking": false,
+     "headline": "Legislature sits Thursday afternoon and Friday morning",
+     "level": "Provincial",
+     "source": "Legislative Assembly of New Brunswick",
+     "url": "https://www.legnb.ca/en/calendar"
+    }
+   ]
+  },
+  "NL": {
+   "code": "NL",
+   "name": "Newfoundland and Labrador",
+   "date": "2026-10-28",
+   "region": "newfoundland",
+   "intro": "Newfoundland and Labrador, October 28: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-10-28/newfoundland/NL/01.jpg",
+    "daily/2026-10-28/newfoundland/NL/02.jpg",
+    "daily/2026-10-28/newfoundland/NL/03.jpg",
+    "daily/2026-10-28/newfoundland/NL/04.jpg",
+    "daily/2026-10-28/newfoundland/NL/05.jpg",
+    "daily/2026-10-28/newfoundland/NL/06.jpg",
+    "daily/2026-10-28/newfoundland/NL/07.jpg",
+    "daily/2026-10-28/newfoundland/NL/08.jpg",
+    "daily/2026-10-28/newfoundland/NL/09.jpg"
+   ],
+   "pdf": "daily/2026-10-28/newfoundland/NL-Newfoundland-and-Labrador.pdf",
+   "items": [
+    {
+     "breaking": true,
+     "headline": "Wakeham says Churchill Falls plan on track after Carney meeting",
+     "level": "Federal",
+     "source": "NTV News",
+     "url": "https://ntv.ca/news/n-l-premier-has-positive-meeting-with-prime-minister-in-churchill-falls-but-dispute-continues-with-innu-nation/"
+    },
+    {
+     "breaking": true,
+     "headline": "Health staffing review released with 21 recommendations",
+     "level": "Provincial",
+     "source": "VOCM",
+     "url": "https://vocm.com/2026/10/27/nlhs-core-staffing-review-now-publicly-available/"
+    },
+    {
+     "breaking": false,
+     "headline": "Province cutting gas and diesel tax to zero this winter",
+     "level": "Provincial",
+     "source": "Government of Newfoundland and Labrador",
+     "url": "https://www.gov.nl.ca/releases/2026/fin/1026n03/"
+    },
+    {
+     "breaking": false,
+     "headline": "More affordability measures expected, package could top $100M",
+     "level": "Provincial",
+     "source": "VOCM",
+     "url": "https://vocm.com/2026/10/27/province-expected-to-unveil-further-affordability-measures/"
+    },
+    {
+     "breaking": false,
+     "headline": "Opposition questions Churchill Falls adviser's exit",
+     "level": "Provincial",
+     "source": "VOCM",
+     "url": "https://vocm.com/2026/10/27/former-member-of-review-committee-simply-completed-job-and-moved-on-says-petten/"
+    },
+    {
+     "breaking": true,
+     "headline": "Teachers' union urges action on Labrador education issues",
+     "level": "Provincial",
+     "source": "NTV News",
+     "url": "https://ntv.ca/news/nlta-calls-on-government-to-act-on-education-problems-in-labrador/"
+    },
+    {
+     "breaking": false,
+     "headline": "Nunatsiavut opens comment period on Nain wind micro-grid",
+     "level": "Indigenous",
+     "source": "Nunatsiavut Government",
+     "url": "https://nunatsiavut.com/public-comment-nain-wind-micro-grid-project/"
+    }
+   ]
+  },
+  "NS": {
+   "code": "NS",
+   "name": "Nova Scotia",
+   "date": "2026-10-29",
+   "region": "atlantic",
+   "intro": "Nova Scotia, October 29: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-10-29/atlantic/NS/01.jpg",
+    "daily/2026-10-29/atlantic/NS/02.jpg",
+    "daily/2026-10-29/atlantic/NS/03.jpg",
+    "daily/2026-10-29/atlantic/NS/04.jpg",
+    "daily/2026-10-29/atlantic/NS/05.jpg",
+    "daily/2026-10-29/atlantic/NS/06.jpg",
+    "daily/2026-10-29/atlantic/NS/07.jpg"
+   ],
+   "pdf": "daily/2026-10-29/atlantic/NS-Nova-Scotia.pdf",
+   "items": [
+    {
+     "breaking": true,
+     "headline": "School support workers could strike Monday without a deal",
+     "level": "Provincial",
+     "source": "Global News",
+     "url": "https://globalnews.ca/news/12124484/nova-scotia-school-support-workers-possible-strike/"
+    },
+    {
+     "breaking": true,
+     "headline": "Province orders Halifax to loosen planning rules for housing",
+     "level": "Provincial",
+     "source": "Government of Nova Scotia",
+     "url": "https://news.novascotia.ca/en/2026/10/28/province-strengthens-planning-rules-support-housing-community-growth-hrm"
+    },
+    {
+     "breaking": true,
+     "headline": "Premier's office complains to professor over data centre comments",
+     "level": "Provincial",
+     "source": "The Canadian Press",
+     "url": "https://www.cp24.com/local/toronto/2026/10/28/ns-premiers-office-scolds-professor-over-comments-on-ai-data-centre/"
+    },
+    {
+     "breaking": false,
+     "headline": "MLAs question EverWind on $10-billion Cape Breton data centre",
+     "level": "Provincial",
+     "source": "The Canadian Press",
+     "url": "https://www.cp24.com/news/canada/2026/10/27/nova-scotia-committee-to-discuss-10-billion-ai-data-centre-planned-for-cape-breton/"
+    },
+    {
+     "breaking": false,
+     "headline": "Halifax council delays decision on bike network alternatives",
+     "level": "Municipal",
+     "source": "Global News",
+     "url": "https://globalnews.ca/news/12123202/halifax-cyclinc-aaa-bike-lane-deferred/"
+    }
+   ]
+  },
+  "PE": {
+   "code": "PE",
+   "name": "Prince Edward Island",
+   "date": "2026-10-29",
+   "region": "atlantic",
+   "intro": "Prince Edward Island, October 29: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-10-29/atlantic/PE/01.jpg",
+    "daily/2026-10-29/atlantic/PE/02.jpg",
+    "daily/2026-10-29/atlantic/PE/03.jpg",
+    "daily/2026-10-29/atlantic/PE/04.jpg",
+    "daily/2026-10-29/atlantic/PE/05.jpg",
+    "daily/2026-10-29/atlantic/PE/06.jpg"
+   ],
+   "pdf": "daily/2026-10-29/atlantic/PE-Prince-Edward-Island.pdf",
+   "items": [
+    {
+     "breaking": false,
+     "headline": "Final advance poll Friday ahead of Nov. 2 municipal elections",
+     "level": "Municipal",
+     "source": "CBC News",
+     "url": "https://ca.news.yahoo.com/p-e-municipal-elections-nov-150000145.html"
+    },
+    {
+     "breaking": false,
+     "headline": "Mobile mental health service extended to March 2028",
+     "level": "Provincial",
+     "source": "CBC News",
+     "url": "https://ca.news.yahoo.com/p-e-mobile-mental-health-210051098.html"
+    },
+    {
+     "breaking": false,
+     "headline": "Province seeks feedback on Lands Protection Act amendments",
+     "level": "Provincial",
+     "source": "Government of P.E.I.",
+     "url": "https://lite.princeedwardisland.ca/feedback-wanted-proposed-changes-prince-edward-island-lands-protection-act"
+    },
+    {
+     "breaking": false,
+     "headline": "Applications open for 2027 correctional officer training program",
+     "level": "Provincial",
+     "source": "Government of P.E.I.",
+     "url": "https://lite.princeedwardisland.ca/applications-open-2027-correctional-officer-training-program"
+    }
+   ]
+  }
+ },
+ "history": {
+  "BC": [
+   "2026-10-29"
+  ],
+  "NB": [
+   "2026-10-29"
+  ],
+  "NL": [
+   "2026-10-28"
+  ],
+  "NS": [
+   "2026-10-29"
+  ],
+  "PE": [
+   "2026-10-29"
+  ]
+ }
+}
