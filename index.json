@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T02:02:47Z",
+ "updated": "2026-11-04T11:24:11Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "BC": {
@@ -287,6 +287,52 @@
      "url": "https://lite.princeedwardisland.ca/applications-open-2027-correctional-officer-training-program"
     }
    ]
+  },
+  "YT": {
+   "code": "YT",
+   "name": "Yukon",
+   "date": "2026-11-04",
+   "region": "yukon",
+   "intro": "Yukon, November 4: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-11-04/yukon/YT/01.jpg",
+    "daily/2026-11-04/yukon/YT/02.jpg",
+    "daily/2026-11-04/yukon/YT/03.jpg",
+    "daily/2026-11-04/yukon/YT/04.jpg",
+    "daily/2026-11-04/yukon/YT/05.jpg",
+    "daily/2026-11-04/yukon/YT/06.jpg"
+   ],
+   "pdf": "daily/2026-11-04/yukon/YT-Yukon.pdf",
+   "items": [
+    {
+     "breaking": true,
+     "headline": "Committee recommends $35,000 cap on Yukon political donations",
+     "level": "Territorial",
+     "source": "Yukon News",
+     "url": "https://yukon-news.com/2026/11/03/legislative-committee-proposes-electoral-financing-reform/"
+    },
+    {
+     "breaking": true,
+     "headline": "Whitehorse pitches about $210M in infrastructure projects to Ottawa",
+     "level": "Municipal",
+     "source": "Yukon News",
+     "url": "https://yukon-news.com/2026/11/03/whitehorse-discusses-roughly-210-million-in-infrastructure-proposals-with-ottawa/"
+    },
+    {
+     "breaking": false,
+     "headline": "Federal budget tabled tomorrow as Yukon waits on infrastructure asks",
+     "level": "Federal",
+     "source": "The Canadian Press",
+     "url": "https://www.advisor.ca/economy/liberals-to-table-2026-federal-budget-on-nov-5/"
+    },
+    {
+     "breaking": false,
+     "headline": "CanNor commits $547,000 to improve Yukon timber access",
+     "level": "Federal",
+     "source": "Yukon News",
+     "url": "https://yukon-news.com/2026/11/02/federal-funding-aims-to-improve-timber-access-for-yukon-forestry-businesses/"
+    }
+   ]
   }
  },
  "history": {
@@ -304,6 +350,9 @@
   ],
   "PE": [
    "2026-10-29"
+  ],
+  "YT": [
+   "2026-11-04"
   ]
  }
 }
