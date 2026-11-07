@@ -1,7 +1,53 @@
 {
- "updated": "2026-11-04T11:24:11Z",
+ "updated": "2026-11-07T10:25:57Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
+  "AB": {
+   "code": "AB",
+   "name": "Alberta",
+   "date": "2026-11-07",
+   "region": "mountain",
+   "intro": "Alberta, November 7: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-11-07/mountain/AB/01.jpg",
+    "daily/2026-11-07/mountain/AB/02.jpg",
+    "daily/2026-11-07/mountain/AB/03.jpg",
+    "daily/2026-11-07/mountain/AB/04.jpg",
+    "daily/2026-11-07/mountain/AB/05.jpg",
+    "daily/2026-11-07/mountain/AB/06.jpg"
+   ],
+   "pdf": "daily/2026-11-07/mountain/AB-Alberta.pdf",
+   "items": [
+    {
+     "breaking": false,
+     "headline": "Provincial inspection blames systemic failures for Calgary water main breaks",
+     "level": "Provincial",
+     "source": "The Canadian Press",
+     "url": "https://www.cp24.com/news/canada/2026/11/06/calgarys-water-woes-due-to-systemic-failures-irregular-administrative-decisions-report/"
+    },
+    {
+     "breaking": false,
+     "headline": "Nenshi and UCP spar over water report findings",
+     "level": "Provincial",
+     "source": "Calgary Herald",
+     "url": "https://ca.news.yahoo.com/nenshi-knew-key-water-main-170554433.html"
+    },
+    {
+     "breaking": true,
+     "headline": "Energy sector praises federal budget as Alberta mayors raise concerns",
+     "level": "Federal",
+     "source": "CTV News Calgary",
+     "url": "https://www.ctvnews.ca/calgary/article/budget-2026-gets-thumbs-up-from-energy-sector-raised-eyebrows-from-alberta-mayors/"
+    },
+    {
+     "breaking": true,
+     "headline": "Otipemisiwak Métis Government says federal budget falls short for Métis",
+     "level": "Indigenous",
+     "source": "Otipemisiwak Métis Government",
+     "url": "https://albertametis.com/news/statement-2026-11-06/"
+    }
+   ]
+  },
   "BC": {
    "code": "BC",
    "name": "British Columbia",
@@ -242,6 +288,76 @@
     }
    ]
   },
+  "NT": {
+   "code": "NT",
+   "name": "Northwest Territories",
+   "date": "2026-11-07",
+   "region": "mountain",
+   "intro": "Northwest Territories, November 7: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-11-07/mountain/NT/01.jpg",
+    "daily/2026-11-07/mountain/NT/02.jpg",
+    "daily/2026-11-07/mountain/NT/03.jpg",
+    "daily/2026-11-07/mountain/NT/04.jpg",
+    "daily/2026-11-07/mountain/NT/05.jpg",
+    "daily/2026-11-07/mountain/NT/06.jpg",
+    "daily/2026-11-07/mountain/NT/07.jpg",
+    "daily/2026-11-07/mountain/NT/08.jpg",
+    "daily/2026-11-07/mountain/NT/09.jpg"
+   ],
+   "pdf": "daily/2026-11-07/mountain/NT-Northwest-Territories.pdf",
+   "items": [
+    {
+     "breaking": true,
+     "headline": "MLAs unanimously pass record $795-million capital plan for 2027-28",
+     "level": "Territorial",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/319129/news/politics/nwts-legislature-approves-record-795-million-capital-plan/"
+    },
+    {
+     "breaking": true,
+     "headline": "Leaders welcome highway funding but flag gaps in federal budget",
+     "level": "Federal",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/319100/news/politics/federal-politics/highway-cash-thrills-nwt-leaders-but-they-say-budget-gaps-remain/"
+    },
+    {
+     "breaking": true,
+     "headline": "Dene National Chief says infrastructure money misses most NWT communities",
+     "level": "Indigenous",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/319100/news/politics/federal-politics/highway-cash-thrills-nwt-leaders-but-they-say-budget-gaps-remain/"
+    },
+    {
+     "breaking": true,
+     "headline": "GNWT releases climate strategy aiming for net-zero by 2050",
+     "level": "Territorial",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/318974/news/environment/climate/nwt-releases-broad-climate-strategy-pointing-at-2050-net-zero-target/"
+    },
+    {
+     "breaking": false,
+     "headline": "Residential school repatriation bill clears second reading",
+     "level": "Territorial",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/318674/news/justice/law/nwt-bill-could-be-model-for-repatriation-of-residential-school-children/"
+    },
+    {
+     "breaking": false,
+     "headline": "School support staff drop by a third after Jordan's Principle changes",
+     "level": "Territorial",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/318824/news/education/nwt-education-staffing-drops-amid-jordans-principle-funding-upheaval/"
+    },
+    {
+     "breaking": false,
+     "headline": "Health authority to get new public administrator in December",
+     "level": "Territorial",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/318652/news/health/nwts-health-authority-will-keep-public-administrator-but-not-this-one/"
+    }
+   ]
+  },
   "PE": {
    "code": "PE",
    "name": "Prince Edward Island",
@@ -336,6 +452,9 @@
   }
  },
  "history": {
+  "AB": [
+   "2026-11-07"
+  ],
   "BC": [
    "2026-10-29"
   ],
@@ -347,6 +466,9 @@
   ],
   "NS": [
    "2026-10-29"
+  ],
+  "NT": [
+   "2026-11-07"
   ],
   "PE": [
    "2026-10-29"
