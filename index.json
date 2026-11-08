@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:25:57Z",
+ "updated": "2026-11-08T11:24:26Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
@@ -51,62 +51,46 @@
   "BC": {
    "code": "BC",
    "name": "British Columbia",
-   "date": "2026-10-29",
+   "date": "2026-11-08",
    "region": "pacific",
-   "intro": "British Columbia, October 29: your 5:00 a.m. government briefing.",
+   "intro": "British Columbia, November 8: your 5:00 a.m. government briefing.",
    "slides": [
-    "daily/2026-10-29/pacific/BC/01.jpg",
-    "daily/2026-10-29/pacific/BC/02.jpg",
-    "daily/2026-10-29/pacific/BC/03.jpg",
-    "daily/2026-10-29/pacific/BC/04.jpg",
-    "daily/2026-10-29/pacific/BC/05.jpg",
-    "daily/2026-10-29/pacific/BC/06.jpg",
-    "daily/2026-10-29/pacific/BC/07.jpg",
-    "daily/2026-10-29/pacific/BC/08.jpg"
+    "daily/2026-11-08/pacific/BC/01.jpg",
+    "daily/2026-11-08/pacific/BC/02.jpg",
+    "daily/2026-11-08/pacific/BC/03.jpg",
+    "daily/2026-11-08/pacific/BC/04.jpg",
+    "daily/2026-11-08/pacific/BC/05.jpg",
+    "daily/2026-11-08/pacific/BC/06.jpg"
    ],
-   "pdf": "daily/2026-10-29/pacific/BC-British-Columbia.pdf",
+   "pdf": "daily/2026-11-08/pacific/BC-British-Columbia.pdf",
    "items": [
     {
      "breaking": true,
-     "headline": "Doerkson says Conservatives will keep every campaign promise",
+     "headline": "Final count continues with Conservatives ahead in 64 seats",
      "level": "Provincial",
-     "source": "CFJC Today (Global News)",
-     "url": "https://cfjctoday.com/2026/10/28/premier-designate-doerkson-says-conservatives-committed-to-all-campaign-promises/"
-    },
-    {
-     "breaking": true,
-     "headline": "B.C. NDP caucus to choose interim leader this week",
-     "level": "Provincial",
-     "source": "Victoria Buzz",
-     "url": "https://victoriabuzz.com/2026/10/bc-ndp-to-select-interim-leader-following-ebys-resignation/"
-    },
-    {
-     "breaking": true,
-     "headline": "McCallum urges Metro Vancouver to cancel Friday budget meeting",
-     "level": "Municipal",
-     "source": "Peace Arch News",
-     "url": "https://peacearchnews.com/2026/10/28/metros-budget-meeting-friday-should-be-cancelled-out-of-respect-for-voters-mccallum-says/"
+     "source": "BC Ballot (Elections BC data)",
+     "url": "https://bcballot.ca/results/"
     },
     {
      "breaking": false,
-     "headline": "Doerkson and Carney agree to work on B.C. economic growth",
+     "headline": "New Surrey council holds first meeting Monday on election promises",
+     "level": "Municipal",
+     "source": "City of Surrey",
+     "url": "https://www.surrey.ca/news-events/news/new-surrey-city-council-takes-office-and-will-pass-motions-on-every-election-commitment-its-first-meeting"
+    },
+    {
+     "breaking": true,
+     "headline": "Vancouver, Victoria mayors back Ottawa's 10-year homelessness goal",
+     "level": "Municipal",
+     "source": "CBC News",
+     "url": "https://ca.news.yahoo.com/absolutely-possible-vancouver-victoria-mayors-195816489.html"
+    },
+    {
+     "breaking": false,
+     "headline": "Premier-designate Doerkson welcomes federal budget as B.C. deficit looms",
      "level": "Federal",
-     "source": "My Powell River Now",
-     "url": "https://www.mypowellrivernow.com/65359/news/politics/incoming-b-c-premier-doerkson-speaks-with-carney-says-they-are-aligned-on-economic-development/"
-    },
-    {
-     "breaking": false,
-     "headline": "Mayor-elect Pete Fry ready to work with Conservative government",
-     "level": "Municipal",
-     "source": "CTV News",
-     "url": "https://www.ctvnews.ca/vancouver/article/vancouver-mayor-elect-says-hes-ready-to-work-with-incoming-conservative-provincial-government/"
-    },
-    {
-     "breaking": false,
-     "headline": "New Conservative cabinet expected by mid-November",
-     "level": "Provincial",
      "source": "The Canadian Press",
-     "url": "https://ca.news.yahoo.com/cabinet-formation-matter-regional-ideological-130006576.html"
+     "url": "https://lethbridgeherald.com/news/national-news/2026/11/06/doerksons-a-fan-of-carneys-budget-but-it-may-not-work-as-a-template-for-b-c/"
     }
    ]
   },
@@ -456,6 +440,7 @@
    "2026-11-07"
   ],
   "BC": [
+   "2026-11-08",
    "2026-10-29"
   ],
   "NB": [
