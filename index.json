@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:24:26Z",
+ "updated": "2026-11-12T10:26:55Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
@@ -388,6 +388,52 @@
     }
    ]
   },
+  "SK": {
+   "code": "SK",
+   "name": "Saskatchewan",
+   "date": "2026-11-12",
+   "region": "saskatchewan",
+   "intro": "Saskatchewan, November 12: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-11-12/saskatchewan/SK/01.jpg",
+    "daily/2026-11-12/saskatchewan/SK/02.jpg",
+    "daily/2026-11-12/saskatchewan/SK/03.jpg",
+    "daily/2026-11-12/saskatchewan/SK/04.jpg",
+    "daily/2026-11-12/saskatchewan/SK/05.jpg",
+    "daily/2026-11-12/saskatchewan/SK/06.jpg"
+   ],
+   "pdf": "daily/2026-11-12/saskatchewan/SK-Saskatchewan.pdf",
+   "items": [
+    {
+     "breaking": false,
+     "headline": "Carney honours Wainwright soldiers, including Prince Albert private",
+     "level": "Federal",
+     "source": "The Canadian Press via 980 CJME",
+     "url": "https://www.cjme.com/2026/11/11/cfb-wainwright-victims-in-our-thoughts-this-remembrance-day-carney-says/"
+    },
+    {
+     "breaking": false,
+     "headline": "Peepeekisis chief calls for recognition of First Nations veterans",
+     "level": "Indigenous",
+     "source": "980 CJME",
+     "url": "https://www.cjme.com/2026/11/11/peepeekisis-veterans-wartime-sacrifices-deserve-recognition/"
+    },
+    {
+     "breaking": false,
+     "headline": "Hundreds attend Regina Remembrance Day ceremony at Victoria Park",
+     "level": "Municipal",
+     "source": "980 CJME",
+     "url": "https://www.cjme.com/2026/11/11/regina-remembrance-day-ceremony-honours-sacrifice-service/"
+    },
+    {
+     "breaking": false,
+     "headline": "Saskatoon reopens 25th Street corridor after water main work",
+     "level": "Municipal",
+     "source": "City of Saskatoon",
+     "url": "https://www.saskatoon.ca/news-releases/25th-street-corridor-open-traffic"
+    }
+   ]
+  },
   "YT": {
    "code": "YT",
    "name": "Yukon",
@@ -457,6 +503,9 @@
   ],
   "PE": [
    "2026-10-29"
+  ],
+  "SK": [
+   "2026-11-12"
   ],
   "YT": [
    "2026-11-04"
