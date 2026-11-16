@@ -1,66 +1,42 @@
 {
- "updated": "2026-11-16T10:22:51Z",
+ "updated": "2026-11-16T10:27:09Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
    "code": "AB",
    "name": "Alberta",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "region": "mountain",
-   "intro": "Alberta, November 15: your 5:00 a.m. government briefing.",
+   "intro": "Alberta, November 16: your 5:00 a.m. government briefing.",
    "slides": [
-    "daily/2026-11-15/mountain/AB/01.jpg",
-    "daily/2026-11-15/mountain/AB/02.jpg",
-    "daily/2026-11-15/mountain/AB/03.jpg",
-    "daily/2026-11-15/mountain/AB/04.jpg",
-    "daily/2026-11-15/mountain/AB/05.jpg",
-    "daily/2026-11-15/mountain/AB/06.jpg",
-    "daily/2026-11-15/mountain/AB/07.jpg",
-    "daily/2026-11-15/mountain/AB/08.jpg"
+    "daily/2026-11-16/mountain/AB/01.jpg",
+    "daily/2026-11-16/mountain/AB/02.jpg",
+    "daily/2026-11-16/mountain/AB/03.jpg",
+    "daily/2026-11-16/mountain/AB/04.jpg",
+    "daily/2026-11-16/mountain/AB/05.jpg"
    ],
-   "pdf": "daily/2026-11-15/mountain/AB-Alberta.pdf",
+   "pdf": "daily/2026-11-16/mountain/AB-Alberta.pdf",
    "items": [
     {
      "breaking": false,
-     "headline": "Alberta unveils royalty incentive to spur new oilsands projects",
-     "level": "Provincial",
-     "source": "Global News",
-     "url": "https://globalnews.ca/news/12150290/alberta-oilsands-growth-program-royalties/"
-    },
-    {
-     "breaking": true,
-     "headline": "Legislature returns Monday with electoral boundaries bill expected",
-     "level": "Provincial",
-     "source": "Lethbridge Herald",
-     "url": "https://lethbridgeherald.com/news/lethbridge-news/2026/11/14/nenshi-miyashiro-rally-lethbridge-crowd-against-electoral-map-changes/"
-    },
-    {
-     "breaking": false,
-     "headline": "Alberta cuts core course requirements for high school graduation",
-     "level": "Provincial",
-     "source": "LiveWire Calgary",
-     "url": "https://livewirecalgary.com/2026/11/13/albertas-new-high-school-graduation-requirements-explained/"
-    },
-    {
-     "breaking": false,
-     "headline": "Ottawa gives 18 Calgary-area businesses $17.6M in tariff relief",
-     "level": "Federal",
-     "source": "Government of Canada",
-     "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/11/minister-olszewski-highlights-the-positive-impact-budget-2026-will-have-for-alberta-businesses-and-announces-new-investments-to-help-calgary-area-b.html"
-    },
-    {
-     "breaking": false,
-     "headline": "Métis government asks Alberta to pause Bill 33 implementation",
+     "headline": "Louis Riel ceremony at legislature opens Métis Week",
      "level": "Indigenous",
-     "source": "Otipemisiwak Métis Government",
-     "url": "https://albertametis.com/news/presidents-corner-2026-11-13/"
+     "source": "Legislative Assembly of Alberta",
+     "url": "https://www.assembly.ab.ca/about/news-and-announcements"
     },
     {
      "breaking": false,
-     "headline": "Edmonton downtown district energy expansion heads to council undecided",
-     "level": "Municipal",
-     "source": "Taproot Edmonton",
-     "url": "https://edmonton.taproot.news/briefs/2026/11/13/future-funding-uncertain-for-downtown-district-energy-system"
+     "headline": "Alberta legislature sits Monday and Tuesday afternoons this week",
+     "level": "Provincial",
+     "source": "Legislative Assembly of Alberta",
+     "url": "https://www.assembly.ab.ca/assembly-business/assembly-dashboard"
+    },
+    {
+     "breaking": false,
+     "headline": "Public accounts committee to question hospital and surgical health ministry",
+     "level": "Provincial",
+     "source": "Legislative Assembly of Alberta",
+     "url": "https://www.assembly.ab.ca/assembly-business/assembly-dashboard"
     }
    ]
   },
@@ -267,62 +243,70 @@
   "NT": {
    "code": "NT",
    "name": "Northwest Territories",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "region": "mountain",
-   "intro": "Northwest Territories, November 15: your 5:00 a.m. government briefing.",
+   "intro": "Northwest Territories, November 16: your 5:00 a.m. government briefing.",
    "slides": [
-    "daily/2026-11-15/mountain/NT/01.jpg",
-    "daily/2026-11-15/mountain/NT/02.jpg",
-    "daily/2026-11-15/mountain/NT/03.jpg",
-    "daily/2026-11-15/mountain/NT/04.jpg",
-    "daily/2026-11-15/mountain/NT/05.jpg",
-    "daily/2026-11-15/mountain/NT/06.jpg",
-    "daily/2026-11-15/mountain/NT/07.jpg",
-    "daily/2026-11-15/mountain/NT/08.jpg"
+    "daily/2026-11-16/mountain/NT/01.jpg",
+    "daily/2026-11-16/mountain/NT/02.jpg",
+    "daily/2026-11-16/mountain/NT/03.jpg",
+    "daily/2026-11-16/mountain/NT/04.jpg",
+    "daily/2026-11-16/mountain/NT/05.jpg",
+    "daily/2026-11-16/mountain/NT/06.jpg",
+    "daily/2026-11-16/mountain/NT/07.jpg",
+    "daily/2026-11-16/mountain/NT/08.jpg",
+    "daily/2026-11-16/mountain/NT/09.jpg"
    ],
-   "pdf": "daily/2026-11-15/mountain/NT-Northwest-Territories.pdf",
+   "pdf": "daily/2026-11-16/mountain/NT-Northwest-Territories.pdf",
    "items": [
     {
-     "breaking": true,
-     "headline": "Ekati watchdog meets as GNWT, Ottawa weigh shutting it down",
+     "breaking": false,
+     "headline": "Union of Northern Workers holds GNWT strike vote meetings this week",
      "level": "Territorial",
      "source": "Cabin Radio",
-     "url": "https://cabinradio.ca/320366/news/environment/reclamation/ekati-watchdog-holds-annual-meeting-amid-uncertainty/"
+     "url": "https://cabinradio.ca/320741/news/economy/labour/union-holds-strike-vote-meetings-ahead-of-gnwt-mediation/"
     },
     {
-     "breaking": true,
-     "headline": "Yellowknife proposes higher ambulance fees to boost revenue",
+     "breaking": false,
+     "headline": "Yellowknife's draft 2027 budget hits $167.5 million",
+     "level": "Municipal",
+     "source": "Yellowknifer",
+     "url": "https://yellowknifer.com/2026/11/13/city-administration-presents-draft-budget-of-167-5-million-for-2027/"
+    },
+    {
+     "breaking": false,
+     "headline": "Yellowknife proposes higher ambulance fees to raise revenue",
      "level": "Municipal",
      "source": "Cabin Radio",
      "url": "https://cabinradio.ca/320421/news/yellowknife/yellowknife-proposes-ambulance-fee-increase-to-help-city-revenue/"
     },
     {
      "breaking": false,
-     "headline": "Yellowknife tables $167.5M draft 2027 budget, 5.25 per cent tax hike",
-     "level": "Municipal",
-     "source": "NWT News/North",
-     "url": "https://yellowknifer.com/2026/11/13/city-administration-presents-draft-budget-of-167-5-million-for-2027/"
-    },
-    {
-     "breaking": false,
-     "headline": "Ottawa grants NWT 50 more nominee program spots",
-     "level": "Federal",
-     "source": "My North Now",
-     "url": "https://www.mynorthnow.com/91051/news/nwt-news/new-allocations-announced-for-nwt-nominee-program/"
-    },
-    {
-     "breaking": false,
-     "headline": "10 new social housing units ready in Ulukhaktok",
-     "level": "Territorial",
-     "source": "My North Now",
-     "url": "https://www.mynorthnow.com/91045/news/nwt-news/10-new-social-housing-units-ready-for-tenants-in-ulukhaktok/"
-    },
-    {
-     "breaking": false,
-     "headline": "Boil-water advisory lifted in Wekweètì after pump repair",
+     "headline": "Ekati mine watchdog's future uncertain as governments weigh ending agreement",
      "level": "Territorial",
      "source": "Cabin Radio",
-     "url": "https://cabinradio.ca/320544/news/tlicho/wekweeti/boil-water-advisory-for-wekweeti-lifted/"
+     "url": "https://cabinradio.ca/320366/news/environment/reclamation/ekati-watchdog-holds-annual-meeting-amid-uncertainty/"
+    },
+    {
+     "breaking": false,
+     "headline": "GNWT can now host high school trades apprentices under UNW deal",
+     "level": "Territorial",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/320388/news/economy/labour/student-apprentices-can-work-for-gnwt-after-agreement-with-unw/"
+    },
+    {
+     "breaking": false,
+     "headline": "Northern artists question whether federal arts funding will reach them",
+     "level": "Federal",
+     "source": "Cabin Radio",
+     "url": "https://cabinradio.ca/320555/news/arts/will-newly-pledged-arts-and-culture-funding-meet-northern-needs/"
+    },
+    {
+     "breaking": false,
+     "headline": "GNWT releases engagement findings on Canol Trail cleanup",
+     "level": "Territorial",
+     "source": "CKLB Radio",
+     "url": "https://cklbradio.com/2026/11/15/next-steps-in-cleaning-up-canol-trail-for-hikers/"
     }
    ]
   },
@@ -451,6 +435,7 @@
  },
  "history": {
   "AB": [
+   "2026-11-16",
    "2026-11-15",
    "2026-11-07"
   ],
@@ -469,6 +454,7 @@
    "2026-10-29"
   ],
   "NT": [
+   "2026-11-16",
    "2026-11-15",
    "2026-11-07"
   ],
