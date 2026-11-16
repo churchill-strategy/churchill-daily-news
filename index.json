@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:27:39Z",
+ "updated": "2026-11-16T07:55:03Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
@@ -167,70 +167,46 @@
   "NL": {
    "code": "NL",
    "name": "Newfoundland and Labrador",
-   "date": "2026-10-28",
+   "date": "2026-11-16",
    "region": "newfoundland",
-   "intro": "Newfoundland and Labrador, October 28: your 5:00 a.m. government briefing.",
+   "intro": "Newfoundland and Labrador, November 16: your 5:00 a.m. government briefing.",
    "slides": [
-    "daily/2026-10-28/newfoundland/NL/01.jpg",
-    "daily/2026-10-28/newfoundland/NL/02.jpg",
-    "daily/2026-10-28/newfoundland/NL/03.jpg",
-    "daily/2026-10-28/newfoundland/NL/04.jpg",
-    "daily/2026-10-28/newfoundland/NL/05.jpg",
-    "daily/2026-10-28/newfoundland/NL/06.jpg",
-    "daily/2026-10-28/newfoundland/NL/07.jpg",
-    "daily/2026-10-28/newfoundland/NL/08.jpg",
-    "daily/2026-10-28/newfoundland/NL/09.jpg"
+    "daily/2026-11-16/newfoundland/NL/01.jpg",
+    "daily/2026-11-16/newfoundland/NL/02.jpg",
+    "daily/2026-11-16/newfoundland/NL/03.jpg",
+    "daily/2026-11-16/newfoundland/NL/04.jpg",
+    "daily/2026-11-16/newfoundland/NL/05.jpg",
+    "daily/2026-11-16/newfoundland/NL/06.jpg"
    ],
-   "pdf": "daily/2026-10-28/newfoundland/NL-Newfoundland-and-Labrador.pdf",
+   "pdf": "daily/2026-11-16/newfoundland/NL-Newfoundland-and-Labrador.pdf",
    "items": [
     {
-     "breaking": true,
-     "headline": "Wakeham says Churchill Falls plan on track after Carney meeting",
-     "level": "Federal",
-     "source": "NTV News",
-     "url": "https://ntv.ca/news/n-l-premier-has-positive-meeting-with-prime-minister-in-churchill-falls-but-dispute-continues-with-innu-nation/"
-    },
-    {
-     "breaking": true,
-     "headline": "Health staffing review released with 21 recommendations",
-     "level": "Provincial",
-     "source": "VOCM",
-     "url": "https://vocm.com/2026/10/27/nlhs-core-staffing-review-now-publicly-available/"
-    },
-    {
      "breaking": false,
-     "headline": "Province cutting gas and diesel tax to zero this winter",
+     "headline": "Wakeham to announce family affordability measure this morning",
      "level": "Provincial",
      "source": "Government of Newfoundland and Labrador",
-     "url": "https://www.gov.nl.ca/releases/2026/fin/1026n03/"
+     "url": "https://www.gov.nl.ca/releases/2026/exec/1113n04/"
     },
     {
      "breaking": false,
-     "headline": "More affordability measures expected, package could top $100M",
+     "headline": "House management commission meets on MHA compensation review",
+     "level": "Provincial",
+     "source": "Government of Newfoundland and Labrador",
+     "url": "https://www.gov.nl.ca/releases/2026/hoa/1113n02/"
+    },
+    {
+     "breaking": false,
+     "headline": "Confederation Building ceremony honours road traffic victims today",
      "level": "Provincial",
      "source": "VOCM",
-     "url": "https://vocm.com/2026/10/27/province-expected-to-unveil-further-affordability-measures/"
+     "url": "https://vocm.com/2026/11/15/road-traffic-victims-remembered-by-ceremony-at-confederation-building/"
     },
     {
      "breaking": false,
-     "headline": "Opposition questions Churchill Falls adviser's exit",
-     "level": "Provincial",
+     "headline": "Minor hockey protest targets Corner Brook civic centre lockout",
+     "level": "Municipal",
      "source": "VOCM",
-     "url": "https://vocm.com/2026/10/27/former-member-of-review-committee-simply-completed-job-and-moved-on-says-petten/"
-    },
-    {
-     "breaking": true,
-     "headline": "Teachers' union urges action on Labrador education issues",
-     "level": "Provincial",
-     "source": "NTV News",
-     "url": "https://ntv.ca/news/nlta-calls-on-government-to-act-on-education-problems-in-labrador/"
-    },
-    {
-     "breaking": false,
-     "headline": "Nunatsiavut opens comment period on Nain wind micro-grid",
-     "level": "Indigenous",
-     "source": "Nunatsiavut Government",
-     "url": "https://nunatsiavut.com/public-comment-nain-wind-micro-grid-project/"
+     "url": "https://vocm.com/2026/11/14/316688/"
     }
    ]
   },
@@ -502,6 +478,7 @@
    "2026-10-29"
   ],
   "NL": [
+   "2026-11-16",
    "2026-10-28"
   ],
   "NS": [
