@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:27:09Z",
+ "updated": "2026-11-17T09:22:50Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
@@ -83,6 +83,52 @@
      "level": "Federal",
      "source": "The Canadian Press",
      "url": "https://lethbridgeherald.com/news/national-news/2026/11/06/doerksons-a-fan-of-carneys-budget-but-it-may-not-work-as-a-template-for-b-c/"
+    }
+   ]
+  },
+  "MB": {
+   "code": "MB",
+   "name": "Manitoba",
+   "date": "2026-11-17",
+   "region": "manitoba",
+   "intro": "Manitoba, November 17: your 5:00 a.m. government briefing.",
+   "slides": [
+    "daily/2026-11-17/manitoba/MB/01.jpg",
+    "daily/2026-11-17/manitoba/MB/02.jpg",
+    "daily/2026-11-17/manitoba/MB/03.jpg",
+    "daily/2026-11-17/manitoba/MB/04.jpg",
+    "daily/2026-11-17/manitoba/MB/05.jpg",
+    "daily/2026-11-17/manitoba/MB/06.jpg"
+   ],
+   "pdf": "daily/2026-11-17/manitoba/MB-Manitoba.pdf",
+   "items": [
+    {
+     "breaking": false,
+     "headline": "Kinew government opens new legislative session with throne speech today",
+     "level": "Provincial",
+     "source": "Government of Manitoba",
+     "url": "https://news.gov.mb.ca/news/index.html?item=76057&posted=2026-11-13"
+    },
+    {
+     "breaking": true,
+     "headline": "PCs pledge no service cuts in alternative throne speech",
+     "level": "Provincial",
+     "source": "CBC Manitoba",
+     "url": "https://www.cbc.ca/news/canada/manitoba/pc-alternative-throne-speech-9.7423913"
+    },
+    {
+     "breaking": true,
+     "headline": "Former PC leader Obby Khan to sit as Independent MLA",
+     "level": "Provincial",
+     "source": "The Canadian Press via CTV News Winnipeg",
+     "url": "https://www.ctvnews.ca/winnipeg/article/fresh-slate-former-manitoba-pc-leader-set-to-take-new-seat-as-independent/"
+    },
+    {
+     "breaking": false,
+     "headline": "Manitoba Métis Federation marks 141 years since Riel's execution",
+     "level": "Indigenous",
+     "source": "CTV News Winnipeg",
+     "url": "https://www.ctvnews.ca/winnipeg/article/manitoba-metis-federation-honours-memory-of-louis-riel-on-execution-anniversary/"
     }
    ]
   },
@@ -442,6 +488,9 @@
   "BC": [
    "2026-11-08",
    "2026-10-29"
+  ],
+  "MB": [
+   "2026-11-17"
   ],
   "NB": [
    "2026-10-29"
