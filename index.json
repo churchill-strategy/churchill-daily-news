@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:56:51Z",
+ "updated": "2026-11-23T10:23:05Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
@@ -421,30 +421,46 @@
   "SK": {
    "code": "SK",
    "name": "Saskatchewan",
-   "date": "2026-11-16",
+   "date": "2026-11-23",
    "region": "saskatchewan",
-   "intro": "Saskatchewan, November 16: your 5:00 a.m. government briefing.",
+   "intro": "Saskatchewan, November 23: your 5:00 a.m. government briefing.",
    "slides": [
-    "daily/2026-11-16/saskatchewan/SK/01.jpg",
-    "daily/2026-11-16/saskatchewan/SK/02.jpg",
-    "daily/2026-11-16/saskatchewan/SK/03.jpg",
-    "daily/2026-11-16/saskatchewan/SK/04.jpg"
+    "daily/2026-11-23/saskatchewan/SK/01.jpg",
+    "daily/2026-11-23/saskatchewan/SK/02.jpg",
+    "daily/2026-11-23/saskatchewan/SK/03.jpg",
+    "daily/2026-11-23/saskatchewan/SK/04.jpg",
+    "daily/2026-11-23/saskatchewan/SK/05.jpg",
+    "daily/2026-11-23/saskatchewan/SK/06.jpg"
    ],
-   "pdf": "daily/2026-11-16/saskatchewan/SK-Saskatchewan.pdf",
+   "pdf": "daily/2026-11-23/saskatchewan/SK-Saskatchewan.pdf",
    "items": [
     {
-     "breaking": false,
-     "headline": "Carla Beck wins 86 per cent backing in NDP leadership review",
-     "level": "Provincial",
-     "source": "650 CKOM",
-     "url": "https://www.ckom.com/2026/11/15/carla-beck-gets-86-support-at-saskatchewan-ndp-convention/"
+     "breaking": true,
+     "headline": "Regina shuts regular bus service in transit lockout",
+     "level": "Municipal",
+     "source": "980 CJME",
+     "url": "https://www.cjme.com/2026/11/22/regina-transit-workers-to-report-for-work-monday-despite-lockout/"
     },
     {
      "breaking": true,
-     "headline": "Province funds second police and crisis team in North Battleford",
-     "level": "Provincial",
+     "headline": "Regina councillor says she learned of bus shutdown afterward",
+     "level": "Municipal",
      "source": "980 CJME",
-     "url": "https://www.cjme.com/2026/11/15/sask-adding-second-police-and-crisis-team-to-north-battleford/"
+     "url": "https://www.cjme.com/2026/11/22/a-total-shock-regina-councillor-blindsided-by-bus-shutdown/"
+    },
+    {
+     "breaking": false,
+     "headline": "Saskatoon council starts 2027 budget talks Tuesday",
+     "level": "Municipal",
+     "source": "650 CKOM",
+     "url": "https://www.ckom.com/2026/11/19/saskatoon-administration-proposes-5-45-property-tax-hike-in-2027/"
+    },
+    {
+     "breaking": false,
+     "headline": "Former Regina mayor and federal minister Larry Schneider dies",
+     "level": "Municipal",
+     "source": "CJME News",
+     "url": "https://www.ckom.com/2026/11/22/regina-flags-fly-at-half-mast-for-former-mayor-mp-larry-schneider/"
     }
    ]
   },
@@ -530,6 +546,7 @@
    "2026-10-29"
   ],
   "SK": [
+   "2026-11-23",
    "2026-11-16",
    "2026-11-12"
   ],
