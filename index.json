@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:23:05Z",
+ "updated": "2026-11-24T07:55:41Z",
  "base": "https://raw.githubusercontent.com/churchill-strategy/churchill-daily-news/main/",
  "latest": {
   "AB": {
@@ -205,70 +205,46 @@
   "NL": {
    "code": "NL",
    "name": "Newfoundland and Labrador",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "region": "newfoundland",
-   "intro": "Newfoundland and Labrador, November 23: your 5:00 a.m. government briefing.",
+   "intro": "Newfoundland and Labrador, November 24: your 5:00 a.m. government briefing.",
    "slides": [
-    "daily/2026-11-23/newfoundland/NL/01.jpg",
-    "daily/2026-11-23/newfoundland/NL/02.jpg",
-    "daily/2026-11-23/newfoundland/NL/03.jpg",
-    "daily/2026-11-23/newfoundland/NL/04.jpg",
-    "daily/2026-11-23/newfoundland/NL/05.jpg",
-    "daily/2026-11-23/newfoundland/NL/06.jpg",
-    "daily/2026-11-23/newfoundland/NL/07.jpg",
-    "daily/2026-11-23/newfoundland/NL/08.jpg",
-    "daily/2026-11-23/newfoundland/NL/09.jpg"
+    "daily/2026-11-24/newfoundland/NL/01.jpg",
+    "daily/2026-11-24/newfoundland/NL/02.jpg",
+    "daily/2026-11-24/newfoundland/NL/03.jpg",
+    "daily/2026-11-24/newfoundland/NL/04.jpg",
+    "daily/2026-11-24/newfoundland/NL/05.jpg",
+    "daily/2026-11-24/newfoundland/NL/06.jpg"
    ],
-   "pdf": "daily/2026-11-23/newfoundland/NL-Newfoundland-and-Labrador.pdf",
+   "pdf": "daily/2026-11-24/newfoundland/NL-Newfoundland-and-Labrador.pdf",
    "items": [
     {
-     "breaking": false,
-     "headline": "Finance minister delivers fall economic and fiscal update today",
+     "breaking": true,
+     "headline": "Fall update flips projected deficit to $78-million surplus",
      "level": "Provincial",
-     "source": "Government of Newfoundland and Labrador",
-     "url": "https://www.gov.nl.ca/releases/2026/fin/1120n03/"
-    },
-    {
-     "breaking": false,
-     "headline": "Ministers to discuss safer communities legislation this morning",
-     "level": "Provincial",
-     "source": "Government of Newfoundland and Labrador",
-     "url": "https://www.gov.nl.ca/releases/2026/jps/1120n08/"
+     "source": "VOCM, NTV",
+     "url": "https://vocm.com/2026/11/23/province-looking-at-78-million-surplus-in-fall-fiscal-update/"
     },
     {
      "breaking": true,
-     "headline": "Province proposes Cannabis Control Act changes after first review",
+     "headline": "Liberals press for long-term cost-of-living measures after surplus",
      "level": "Provincial",
-     "source": "NTV",
-     "url": "https://ntv.ca/news/province-proposes-changes-to-cannabis-act-following-five-year-review-2/"
+     "source": "VOCM",
+     "url": "https://vocm.com/2026/11/23/wheres-the-break-liberals-press-government-on-meaningful-long-term-cost-of-living-measures-in-light-of-78-m-surplus/"
     },
     {
      "breaking": true,
-     "headline": "Housing advocates rally at Waterford Hospital on National Housing Day",
-     "level": "Municipal",
-     "source": "NTV",
-     "url": "https://ntv.ca/news/tent-city-for-change-to-hold-protest-on-national-housing-day-2/"
-    },
-    {
-     "breaking": false,
-     "headline": "Construction underway on new $12 million Goulds fire station",
-     "level": "Municipal",
-     "source": "VOCM",
-     "url": "https://vocm.com/2026/11/22/317425/"
-    },
-    {
-     "breaking": false,
-     "headline": "Flavoured vape ban debate heats up over usage data",
+     "headline": "Problem-property law amendments and tip line reach second reading",
      "level": "Provincial",
-     "source": "VOCM",
-     "url": "https://vocm.com/2026/11/22/317434/"
+     "source": "Government of Newfoundland and Labrador",
+     "url": "https://www.gov.nl.ca/releases/2026/jps/1123n12/"
     },
     {
      "breaking": false,
-     "headline": "NL pilot urges Ottawa to reverse cadet program cuts",
-     "level": "Federal",
-     "source": "VOCM",
-     "url": "https://vocm.com/2026/11/21/317387/"
+     "headline": "Seniors' advocate releases 2026 seniors' wellbeing report today",
+     "level": "Provincial",
+     "source": "Government of Newfoundland and Labrador",
+     "url": "https://www.gov.nl.ca/releases/2026/osa/1123n11/"
     }
    ]
   },
@@ -529,6 +505,7 @@
    "2026-10-29"
   ],
   "NL": [
+   "2026-11-24",
    "2026-11-23",
    "2026-11-16",
    "2026-10-28"
